@@ -11,13 +11,13 @@ A Deep Learning project that predicts whether a movie review expresses positive 
 ## 🖥️ UI Screenshots
 
 ### 1. Application Interface
-![Application Interface](C:\Users\desktop\Desktop\Simple RNN_IMDB\resources\Normal_interface.png)
+![Application Interface](assets\Negative_prediction.png)
 
 ### 2. Positive Review Prediction
-![Positive Sentiment Prediction](C:\Users\desktop\Desktop\Simple RNN_IMDB\resources\Negative_prediction.png)
+![Positive Sentiment Prediction](assets/Positive-prediction.png)
 
 ### 3. Negative Review Prediction
-![Negative Sentiment Prediction](C:\Users\desktop\Desktop\Simple RNN_IMDB\resources\Positive_prediction.png)
+![Negative Sentiment Prediction](assets/Negative-prediction.png)
 
 > **Note:** Create a `screenshots` folder in your project directory and add the three images using the filenames shown above.
 
