@@ -3,9 +3,9 @@
 
 A Deep Learning project that predicts whether a movie review expresses positive or negative sentiment using a Simple Recurrent Neural Network (SimpleRNN). The application provides an interactive user interface built with Streamlit.
 
-## 🔗 Project Links
+## 🔗 Project Live Link
 
-- **GitHub Repository:** [View Project on GitHub](https://github.com/vishalrathor001/imdb-movie-review-sentiment-analysis)
+
 - **Live Demo:** [Add your deployed Streamlit app URL here](https://imdb-movie-review-sentiment-analysis-vr3bmyx8ggfmgo6snk5yhu.streamlit.app/).
 
 ## 🖥️ UI Screenshots
@@ -14,10 +14,10 @@ A Deep Learning project that predicts whether a movie review expresses positive 
 ![Application Interface](assets/Normal_interface.png)
 
 ### 2. Positive Review Prediction
-![Positive Sentiment Prediction](assets/Positive-prediction.png)
+![Positive Sentiment Prediction](assets/Positive_prediction.png)
 
 ### 3. Negative Review Prediction
-![Negative Sentiment Prediction](assets/Negative-prediction.png)
+![Negative Sentiment Prediction](assets/Negative_prediction.png)
 
 
 
