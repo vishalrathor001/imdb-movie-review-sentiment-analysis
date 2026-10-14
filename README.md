@@ -64,19 +64,21 @@ The model produces a probability score for positive sentiment. A threshold of 0.
 ```text
 imdb-movie-review-sentiment-analysis/
 │
+├── embeddings.ipynb
 ├── main.py
-├── simplernn.ipynb
-├── simple_rnn_imdb.h5
-├── requirements.txt
+├── prediction.ipynb
 ├── README.md
+├── requirements.txt
+├── simple_rnn_imdb.h5
+├── simplernn.ipynb
 │
-└── screenshots/
-    ├── app-interface.png
-    ├── positive-prediction.png
-    └── negative-prediction.png
+└── assets/
+    ├── Noraml_interface.png
+    ├── Positive_prediction.png
+    └── Negative_prediction.png
 ```
 
-*Adjust the structure according to the files actually present in your repository.*
+
 
 ## ⚙️ Installation and Setup
 
@@ -155,7 +157,7 @@ These results represent performance on the test dataset. Predictions on individu
 
 ## 👨‍💻 Author
 
-**Vishal Rathor**
+**Vishal Kumar**
 
 - GitHub: [@vishalrathor001](https://github.com/vishalrathor001)
 
