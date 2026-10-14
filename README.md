@@ -11,7 +11,7 @@ A Deep Learning project that predicts whether a movie review expresses positive 
 ## 🖥️ UI Screenshots
 
 ### 1. Application Interface
-![Application Interface](assets\Negative_prediction.png)
+![Application Interface](assets/Normal_interface.png)
 
 ### 2. Positive Review Prediction
 ![Positive Sentiment Prediction](assets/Positive-prediction.png)
@@ -19,7 +19,7 @@ A Deep Learning project that predicts whether a movie review expresses positive 
 ### 3. Negative Review Prediction
 ![Negative Sentiment Prediction](assets/Negative-prediction.png)
 
-> **Note:** Create a `screenshots` folder in your project directory and add the three images using the filenames shown above.
+
 
 ## ✨ Features
 
