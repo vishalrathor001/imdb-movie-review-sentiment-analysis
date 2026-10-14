@@ -6,18 +6,18 @@ A Deep Learning project that predicts whether a movie review expresses positive 
 ## 🔗 Project Links
 
 - **GitHub Repository:** [View Project on GitHub](https://github.com/vishalrathor001/imdb-movie-review-sentiment-analysis)
-- **Live Demo:** Add your deployed Streamlit app URL here.
+- **Live Demo:** [Add your deployed Streamlit app URL here](https://imdb-movie-review-sentiment-analysis-vr3bmyx8ggfmgo6snk5yhu.streamlit.app/).
 
 ## 🖥️ UI Screenshots
 
 ### 1. Application Interface
-![Application Interface](screenshots/app-interface.png)
+![Application Interface](C:\Users\desktop\Desktop\Simple RNN_IMDB\resources\Normal_interface.png)
 
 ### 2. Positive Review Prediction
-![Positive Sentiment Prediction](screenshots/positive-prediction.png)
+![Positive Sentiment Prediction](C:\Users\desktop\Desktop\Simple RNN_IMDB\resources\Negative_prediction.png)
 
 ### 3. Negative Review Prediction
-![Negative Sentiment Prediction](screenshots/negative-prediction.png)
+![Negative Sentiment Prediction](C:\Users\desktop\Desktop\Simple RNN_IMDB\resources\Positive_prediction.png)
 
 > **Note:** Create a `screenshots` folder in your project directory and add the three images using the filenames shown above.
 
